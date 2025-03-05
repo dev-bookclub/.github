@@ -7,7 +7,6 @@
 
 | 날짜                | 학습자료                                                                                    | 레포                                                                                     |
 | ------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 24/12/16 ~ 25/02/24 | [예제로 배우는 소프트웨어 디자인](https://product.kyobobook.co.kr/detail/S000214608148) | [Software-Design-by-Example](https://github.com/dev-bookclub/Software-Design-by-Example) |
 | 25/03/05 ~  | 아티클 & 영상 | [FE_DevTalk](https://github.com/dev-bookclub/FE_DevTalk) |
 
 ---
