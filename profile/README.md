@@ -8,7 +8,8 @@
 | 날짜                | 학습자료                                                                                    | 레포                                                                                     |
 | ------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | 25/03/05 ~  | 아티클 & 영상 | [fe_devtalk](https://github.com/dev-bookclub/FE_DevTalk) |
-| 25/03/17 ~ 25/04/27 | 프런트엔드 개발을 위한 보안 입문 | [fe-security](https://github.com/dev-bookclub/fe-security) |
+| 25/03/17 ~ 25/04/27 | [프런트엔드 개발을 위한 보안 입문](https://product.kyobobook.co.kr/detail/S000211709203) | [fe-security](https://github.com/dev-bookclub/fe-security) |
+| 25/05/11 ~ 25/06/22 | [멀티패러다임 프로그래밍](https://product.kyobobook.co.kr/detail/S000216318962) | [multiparadigm](https://github.com/dev-bookclub/multiparadigm) |
 
 ---
 
