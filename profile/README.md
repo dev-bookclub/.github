@@ -49,6 +49,3 @@
 
 문의
 - ✉️: dhp94d@gmail.com
-
-회고 블로그
-- 📝: https://dhyun2.tistory.com/
